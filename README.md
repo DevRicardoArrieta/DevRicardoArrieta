@@ -1,6 +1,4 @@
 -   👋 Hi, I’m @DevRicardoArrieta also DevRichie in some website...
 -   👀 I’m interested in Dev Websites 
 -   🔭 I’m currently working on Interface Design and web technologies with Javascript, react.js & node.js
--   🌱 I’m also currently learning Python and some frameworks like Django & Flask.
--   💞️ I’m looking to collaborate on ...
--   📫 you can reach me DevRicardoArrieta@gmail.com
+
